@@ -1,0 +1,8 @@
+#Binaries
+BoneOS.bin
+
+#output files
+#../kernel/core/main/kernel.o 
+#../boot/boot.o
+*.o
+cross/
