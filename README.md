@@ -9,11 +9,11 @@ BoneOS Kernel and Operating System Source Tree
 ```
 
 ##Installing OS (Normal Installation)
-	There is an ISO File Available For you on the
-	current directory. Just run up an emulator such 
-	as VirtualBox or VMWare and select that ISO , 
-	and it should be all good or please request an issue
-	[**here**](https://github.com/Bone-Project/BoneOS/issues)!
+There is an ISO File Available For you on the
+current directory. Just run up an emulator such 
+as VirtualBox or VMWare and select that ISO , 
+and it should be all good or please request an issue
+[**here**](https://github.com/Bone-Project/BoneOS/issues)!
 
 ##Installing OS (Building From Source) 
 
