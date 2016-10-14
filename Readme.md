@@ -3,4 +3,4 @@
 
 Checkout The Specified Branch for the Archetcture you would like to see.
 
-x86 : https://github.com/Bone-Project/BoneOS/tree/x86 . Cloning : git clone -b x86  https://github.com/Bone-Project/BoneOS
+x86 : https://github.com/Bone-Project/BoneOS/tree/x86 . Cloning : `git clone -b x86  https://github.com/Bone-Project/BoneOS`
